@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/digitalexpressions/static/css/main.f834cc30.css",
+    "main.js": "/digitalexpressions/static/js/main.c6c277df.js",
+    "static/js/787.043b7ca3.chunk.js": "/digitalexpressions/static/js/787.043b7ca3.chunk.js",
+    "index.html": "/digitalexpressions/index.html",
+    "main.f834cc30.css.map": "/digitalexpressions/static/css/main.f834cc30.css.map",
+    "main.c6c277df.js.map": "/digitalexpressions/static/js/main.c6c277df.js.map",
+    "787.043b7ca3.chunk.js.map": "/digitalexpressions/static/js/787.043b7ca3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f834cc30.css",
+    "static/js/main.c6c277df.js"
+  ]
+}
